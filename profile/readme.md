@@ -6,7 +6,8 @@ In this profile you can access to lots of 😉intereting repo .
 
 Including ai-agent / onchain privacy solution / network privacy solution🤡 . 
 
-![banner](https://github.com/user-attachments/assets/5c7f7071-9ad0-41b9-bc9a-f09ba5279ea9)
+![back-banner](https://github.com/user-attachments/assets/5f871181-ece5-44d0-9983-045b55360fac)
+
 
 ## 🍺What kind of service we provide  ?
 
@@ -37,4 +38,5 @@ Including ai-agent / onchain privacy solution / network privacy solution🤡 .
 
 Sure ! We do always welcome new code . Just pull down , build your own code , and submit a pull request .
 
-![logo](https://github.com/user-attachments/assets/a17d2f31-eb8b-43ea-8cd7-fe6e42b8f6c8)
+![logo-banner](https://github.com/user-attachments/assets/596d5148-8639-4fad-99b0-8005a3a34d40)
+
