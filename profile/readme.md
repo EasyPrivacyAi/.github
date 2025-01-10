@@ -6,8 +6,7 @@ In this profile you can access to lots of 😉intereting repo .
 
 Including ai-agent / onchain privacy solution / network privacy solution🤡 . 
 
-![back-banner](https://github.com/user-attachments/assets/5f871181-ece5-44d0-9983-045b55360fac)
-
+![back-banner](https://github.com/user-attachments/assets/52d775da-6482-4925-a02d-12e480cedb25)
 
 ## 🍺What kind of service we provide  ?
 
